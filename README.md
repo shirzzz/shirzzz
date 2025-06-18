@@ -42,7 +42,7 @@ Supports persistent storage with `AsyncStorage`, intuitive UI — designed to he
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shirzzz" alt="shirzzz" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shirzzzt&show_icons=true&locale=en&layout=compact" alt="shirzzz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shirzzz&show_icons=true&locale=en&layout=compact" alt="shirzzz" /></p>
 
 
 ### 📫 Connect With Me
