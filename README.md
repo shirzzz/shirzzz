@@ -1,4 +1,4 @@
-# Hi, I'm Shir AKA shirzzz :)
+# Hi, I'm Shir aka shirzzz :)
 
 I'm a Computer Science student at Tel Aviv University with a love for elegant code and creative problem solving.  
 Currently a **Teaching Assistant** for Data Structures and a Top 5 ranked **competitive programmer** (CodeChef 🇮🇱 #5).
