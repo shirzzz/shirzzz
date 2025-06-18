@@ -4,7 +4,6 @@ I'm a Computer Science student at Tel Aviv University with a love for elegant co
 Currently a **Teaching Assistant** for Data Structures and a Top 5 ranked **competitive programmer** (CodeChef 🇮🇱 #5).
 
 ### 💻 What I Do
-- Build full-stack applications using **Python**, **JavaScript**, **C++**
 - Solve complex algorithmic challenges and optimize data structures
 - Explore systems, AI tools, and product-minded engineering
 
