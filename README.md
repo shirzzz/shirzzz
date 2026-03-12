@@ -10,19 +10,20 @@ Currently a **Teaching Assistant** for Data Structures and a Top 5 ranked **comp
 
 
 
-####  [Dr. Cheery - Clinical Monitoring Dashboard](https://github.com/shirzzz/Dr_Cheery-Clinical_Monitoring_Dashboard) <img width="100" height="100" alt="picking" src="https://github.com/user-attachments/assets/7a64052b-87cc-49ef-a9ce-a55183e96bec" />
+####  [Dr. Cheery - Clinical Monitoring Dashboard ](https://github.com/shirzzz/Dr_Cheery-Clinical_Monitoring_Dashboard) <img width="100" height="100" alt="picking" src="https://github.com/user-attachments/assets/7a64052b-87cc-49ef-a9ce-a55183e96bec" />
 
 An AI-powered clinical monitoring dashboard designed for doctors. The system provides real-time visualization of respiratory vitals, smart alerts based on machine learning analysis, and an integrated AI assistant for querying patient history. The platform helps medical staff monitor patients more efficiently and make faster, data-driven decisions.
 
-####  [Master Class](https://github.com/shirzzz/Master_Class)
+####  [Master Class ](https://github.com/shirzzz/Master_Class)
 Python-based application designed to optimize student groupings into balanced classes. Leveraging graph theory and clustering algorithms, it considers student friendships, academic performance, and behavioral traits to create well-balanced classroom assignments. The system aims to enhance student well-being and academic success by fostering supportive peer relationships and balanced learning environments.
 
-####  [Tank Simulator Project](https://github.com/shirzzz/Tank_Simulator_Project) <img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/f2e1f3c6-b391-4bab-bab3-d5c80bcf200d" />
+####  [Tank Simulator Project ](https://github.com/shirzzz/Tank_Simulator_Project) <img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/f2e1f3c6-b391-4bab-bab3-d5c80bcf200d" />
 
 A C++ tank game with modular AI strategies, smart pathfinding (BFS), and real-time simulations.  
 Includes a Python-based visualizer to animate gameplay and debugging - bridging C++ logic with modern tooling.
 
-####  [Sweet Tasks](https://github.com/shirzzz/sweet-tasks)
+####  [Sweet Tasks ](https://github.com/shirzzz/sweet-tasks) <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2617e4d0-27ce-4165-ba07-acd5e6162d61" />
+
 A mobile week planner application built with React Native that helps users organize and manage their weekly tasks. The app allows adding, editing, and storing tasks for each day of the week with persistent storage, providing a simple and user-friendly productivity tool.
 
 ###  Highlights
