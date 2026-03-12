@@ -17,7 +17,7 @@ An AI-powered clinical monitoring dashboard designed for doctors. The system pro
 ####  [Master Class](https://github.com/shirzzz/Master_Class)
 Python-based application designed to optimize student groupings into balanced classes. Leveraging graph theory and clustering algorithms, it considers student friendships, academic performance, and behavioral traits to create well-balanced classroom assignments. The system aims to enhance student well-being and academic success by fostering supportive peer relationships and balanced learning environments.
 
-####  [Tank Simulator Project](https://github.com/shirzzz/Tank_Simulator_Project) <img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/f2e1f3c6-b391-4bab-bab3-d5c80bcf200d" />
+####  [Tank Simulator Project](https://github.com/shirzzz/Tank_Simulator_Project) <img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/f2e1f3c6-b391-4bab-bab3-d5c80bcf200d" />
 
 A C++ tank game with modular AI strategies, smart pathfinding (BFS), and real-time simulations.  
 Includes a Python-based visualizer to animate gameplay and debugging - bridging C++ logic with modern tooling.
