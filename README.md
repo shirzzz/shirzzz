@@ -9,9 +9,9 @@ Currently a **Teaching Assistant** for Data Structures and a Top 5 ranked **comp
 - Explore systems, AI tools, and product-minded engineering
 
 
-<img width="100" height="100" alt="picking" src="https://github.com/user-attachments/assets/7a64052b-87cc-49ef-a9ce-a55183e96bec" />
 
-####  [Dr. Cheery - Clinical Monitoring Dashboard](https://github.com/shirzzz/Dr_Cheery-Clinical_Monitoring_Dashboard)
+####  [Dr. Cheery - Clinical Monitoring Dashboard](https://github.com/shirzzz/Dr_Cheery-Clinical_Monitoring_Dashboard) <img width="100" height="100" alt="picking" src="https://github.com/user-attachments/assets/7a64052b-87cc-49ef-a9ce-a55183e96bec" />
+
 An AI-powered clinical monitoring dashboard designed for doctors. The system provides real-time visualization of respiratory vitals, smart alerts based on machine learning analysis, and an integrated AI assistant for querying patient history. The platform helps medical staff monitor patients more efficiently and make faster, data-driven decisions.
 
 ####  [Master Class](https://github.com/shirzzz/Master_Class)
