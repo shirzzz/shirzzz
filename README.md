@@ -1,19 +1,25 @@
 # Hi, I'm Shir aka shirzzz :)
 
-I'm a Computer Science student at Tel Aviv University with a love for elegant code and creative problem solving.  
+I'm a Computer Science graduate at Tel Aviv University with a love for elegant code and creative problem solving.  
 Currently a **Teaching Assistant** for Data Structures and a Top 5 ranked **competitive programmer** (CodeChef 🇮🇱 #5).
 
 ###  What I Do
+- I enjoy designing clean and intuitive UI/UX experiences and creating interfaces that are both functional and visually appealing.
 - Solve complex algorithmic challenges and optimize data structures
 - Explore systems, AI tools, and product-minded engineering
 
-####  [Tankproj](https://github.com/shirzzz/Tankproj)
+####  [Dr. Cheery - Clinical Monitoring Dashboard](https://github.com/shirzzz/Dr_Cheery-Clinical_Monitoring_Dashboard)
+An AI-powered clinical monitoring dashboard designed for doctors. The system provides real-time visualization of respiratory vitals, smart alerts based on machine learning analysis, and an integrated AI assistant for querying patient history. The platform helps medical staff monitor patients more efficiently and make faster, data-driven decisions.
+
+####  [Master Class](https://github.com/shirzzz/Master_Class)
+Python-based application designed to optimize student groupings into balanced classes. Leveraging graph theory and clustering algorithms, it considers student friendships, academic performance, and behavioral traits to create well-balanced classroom assignments. The system aims to enhance student well-being and academic success by fostering supportive peer relationships and balanced learning environments.
+
+####  [Tank Simulator Project](https://github.com/shirzzz/Tank_Simulator_Project)
 A C++ tank game with modular AI strategies, smart pathfinding (BFS), and real-time simulations.  
 Includes a Python-based visualizer to animate gameplay and debugging — bridging C++ logic with modern tooling.
 
 ####  [Sweet Tasks](https://github.com/shirzzz/sweet-tasks)
-A task management app built with **React Native** for organizing daily goals.  
-Supports persistent storage with `AsyncStorage`, intuitive UI — designed to help users track tasks and be motivated.
+A mobile week planner application built with React Native that helps users organize and manage their weekly tasks. The app allows adding, editing, and storing tasks for each day of the week with persistent storage, providing a simple and user-friendly productivity tool.
 
 ###  Highlights
 - TA for Data Structures — focus on clarity, efficiency, and insight
@@ -22,7 +28,7 @@ Supports persistent storage with `AsyncStorage`, intuitive UI — designed to he
 - Award-winning **ballet dancer** — discipline meets creativity :)
 
 ###  Tech Stack
-`C` `C++` `Python` `JavaScript` `Java` `C#`  
+`C` `C++` `Python` `JavaScript` `Java` `C#`, `TypeScript`, `Vite`, `Node.js`  
 `SQL` `Shell` `Git` `SAP` `AI tools`
 
 <div align="center">
