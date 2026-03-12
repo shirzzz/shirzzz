@@ -8,7 +8,8 @@ Currently a **Teaching Assistant** for Data Structures and a Top 5 ranked **comp
 - Solve complex algorithmic challenges and optimize data structures
 - Explore systems, AI tools, and product-minded engineering
 
-####  [Dr. Cheery - Clinical Monitoring Dashboard](https://github.com/shirzzz/Dr_Cheery-Clinical_Monitoring_Dashboard)
+
+<img width="100" height="100" alt="picking" src="https://github.com/user-attachments/assets/7a64052b-87cc-49ef-a9ce-a55183e96bec" />####  [Dr. Cheery - Clinical Monitoring Dashboard](https://github.com/shirzzz/Dr_Cheery-Clinical_Monitoring_Dashboard)
 An AI-powered clinical monitoring dashboard designed for doctors. The system provides real-time visualization of respiratory vitals, smart alerts based on machine learning analysis, and an integrated AI assistant for querying patient history. The platform helps medical staff monitor patients more efficiently and make faster, data-driven decisions.
 
 ####  [Master Class](https://github.com/shirzzz/Master_Class)
@@ -16,7 +17,7 @@ Python-based application designed to optimize student groupings into balanced cl
 
 ####  [Tank Simulator Project](https://github.com/shirzzz/Tank_Simulator_Project)
 A C++ tank game with modular AI strategies, smart pathfinding (BFS), and real-time simulations.  
-Includes a Python-based visualizer to animate gameplay and debugging — bridging C++ logic with modern tooling.
+Includes a Python-based visualizer to animate gameplay and debugging - bridging C++ logic with modern tooling.
 
 ####  [Sweet Tasks](https://github.com/shirzzz/sweet-tasks)
 A mobile week planner application built with React Native that helps users organize and manage their weekly tasks. The app allows adding, editing, and storing tasks for each day of the week with persistent storage, providing a simple and user-friendly productivity tool.
